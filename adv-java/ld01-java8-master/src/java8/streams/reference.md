@@ -1,0 +1,1 @@
+https://docs.oracle.com/javase/tutorial/collections/streams/parallelism.html
